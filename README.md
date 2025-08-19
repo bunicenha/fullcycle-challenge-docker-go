@@ -10,12 +10,12 @@ Full Cycle Rocks!!
 
 1. **Build the Docker image:**
    ```sh
-   docker build -t bunicenha/fullcycle-challenge-docker-go:latest .
+   docker build -t raulbunicenha/fullcycle-challenge-docker-go:latest .
    ```
 
 2. **Run the Docker container:**
    ```sh
-   docker run --rm bunicenha/fullcycle-challenge-docker-go:latest
+   docker run --rm raulbunicenha/fullcycle-challenge-docker-go:latest
    ```
    Output:
    ```
@@ -27,8 +27,8 @@ Full Cycle Rocks!!
 You can also pull the image directly from Docker Hub:
 
 ```sh
-docker pull bunicenha/fullcycle-challenge-docker-go:latest
-docker run --rm bunicenha/fullcycle-challenge-docker-go:latest
+docker pull raulbunicenha/fullcycle-challenge-docker-go:latest
+docker run --rm raulbunicenha/fullcycle-challenge-docker-go:latest
 ```
 
 ---
